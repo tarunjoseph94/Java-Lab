@@ -38,4 +38,4 @@ public class pack_stack implements stack
 }
 //in the console  javac -d . classname.java
 //Then in the console 
-//set classpath="Path to package"
+//set classpath="Path to package"(Test this not sure)
