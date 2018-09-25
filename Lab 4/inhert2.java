@@ -38,6 +38,7 @@
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		superclass r;
+		//Creates refrence object of Type superclass
 		subclass2 s2= new subclass2();
 		s2.funct1();
 
