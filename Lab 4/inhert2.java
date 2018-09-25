@@ -43,16 +43,22 @@
 		s2.funct1();
 
 		r=s2;
+		//this will have the information about the object s2
 		r.funct1();
+		//this displays the function of subclass2
 		
 		
 		subclass1 s1=new subclass1();
 		r=s1;
+		//this will have the information about the object s1
 		r.funct1();
+		//this displays the function of subclass1
 
 		superclass sup=new superclass();
 		r=sup;
+		//this will have the information about the object sup
 		r.funct1();
+		//this displays the function of superclass
 	}
 
 }
